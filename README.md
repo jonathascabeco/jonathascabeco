@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Jônathas Cabêço.
 
-- 🔭 Hoje estou trabalhando tanto com back-end como front-end.
-- 🌱 Tenho estudado Java, Typescript nas tecnologias Spring Boot e Angular.
-- 👯 Estou procurando uma oportunidade no campo de desenvolvimento, objetivando solucionar problemas reais.
+- 🔭 Hoje estou trabalhando tanto com back-end como front-end. Mais especificamente com Sql Server, C#, TypeScript, HTML, CSS, .Net e Angular. Porém, também ja implementei em Node.js, Python, Java e React.  
+- 🌱 Minhas atividades são de criação e manutenção de Sistema Web Gerencial e Aplicativo.
+- 👯 Lido diariamente com o campo de desenvolvimento, solucinando problemas reais.
 - 📫 Contate-me no email: jonathascabeco@gmail.com
 - 😄 Pronouns: ele/dele
 
