@@ -1,10 +1,10 @@
-### Olá! Eu sou o Jônathas Cabêço.
+### Hi there! I'm Jônathas Cabêço.
 
-- 🔭 Hoje estou trabalhando tanto com back-end como front-end. Mais especificamente com Sql Server, C#, TypeScript, HTML, CSS, .Net e Angular. Porém, também ja implementei em Node.js, Python, Java e React.  
-- 🌱 Minhas atividades são de criação e manutenção de Sistema Web Gerencial e Aplicativo.
-- 👯 Lido diariamente com o campo de desenvolvimento, solucinando problemas reais.
-- 📫 Contate-me no email: jonathascabeco@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Current Focus: Full-stack development, primarily leveraging C#, .NET, SQL Server, TypeScript, and Angular.
+- 🚀 Background: I also have hands-on experience with Node.js, Python, Java, and React.
+- 🛠️ What I do: I build and maintain robust Web Management Systems and Mobile Applications.
+- 💡 Mission: Solving real-world problems through clean code and efficient development every day.
+- 📫 Let's connect: jonathascabeco@gmail.com
 
 <div align="center">
   <a href="https://github.com/jonathascabeco">
